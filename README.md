@@ -1,5 +1,5 @@
 # SRD
-Simple RMI Dom
+Simple RMI Demo
 
 
 # RMI学习文档<br>
