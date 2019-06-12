@@ -1,0 +1,2 @@
+# SRD
+sample RMI dom
